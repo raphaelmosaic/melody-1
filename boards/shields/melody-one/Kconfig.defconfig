@@ -2,5 +2,5 @@ if SHIELD_MELODY_ONE
 
 config ZMK_KEYBOARD_NAME
     default "cascade"
-    
+
 endif
