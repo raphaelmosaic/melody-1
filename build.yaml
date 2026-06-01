@@ -15,3 +15,6 @@
 include:
   - board: nice_nano_v2
     shield: melody-one
+
+  - board: nice_nano_v2
+    shield: settings_reset
