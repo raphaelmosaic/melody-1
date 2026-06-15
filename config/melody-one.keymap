@@ -5,16 +5,16 @@
 #define CONFIG_WIRELESS 1
 
 &mt {
-    flavor = "balanced";
-    tapping-term-ms = <200>;
-    quick-tap-ms = <175>;
+    flavor = "tap-preferred";
+    tapping-term-ms = <150>;
+    quick-tap-ms = <0>;
     require-prior-idle-ms = <125>;
 };
 
 &lt {
-    flavor = "balanced";
-    tapping-term-ms = <200>;
-    quick-tap-ms = <175>;
+    flavor = "tap-preferred";
+    tapping-term-ms = <150>;
+    quick-tap-ms = <0>;
     require-prior-idle-ms = <125>;
 };
 
