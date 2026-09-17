@@ -26,7 +26,7 @@
 &lt 5 TAB          &kp Q            &kp W            &kp F            &kp P            &kp B            &none            &none             &kp J            &kp L            &kp U            &kp Y            &kp SLASH     &kp EQUAL
 &mt LEFT_CONTROL F12  &kp A        &kp R            &kp S            &kp T            &kp G            &kp F13          &none             &kp M            &kp N            &kp E            &kp I            &kp O         &kp F11
 &kp LEFT_SHIFT    &lt 3 Z          &lt 4 X          &kp C            &kp D            &kp V            &none   &none    &none             &kp K            &kp H            &kp COMMA        &kp DOT          &kp MINUS     &kp EQUAL
-&none              &none            &none            &none            &mt LEFT_ALT DELETE  &kp SPACE   &mt LGUI ESCAPE  &lt 6 F11        &lt 2 ENTER      &lt 1 BACKSPACE  &mt LC(LS(LGUI)) F10  &none       &none         &none      &kp EQUAL
+&none              &none            &none            &none            &mt LEFT_ALT DELETE  &kp SPACE   &mt LGUI ESCAPE  &lt 6 F11        &lt 2 ENTER      &lt 1 BACKSPACE  &mt F19 F10  &none       &none         &none      &kp EQUAL
             >;
         };
 
